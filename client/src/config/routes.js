@@ -6,6 +6,8 @@ const routes = {
     login: '/login',
     register: '/register',
 
+    homeAdmin: '/system',
+
     profile: '/@:nickname',
     search: '/search',
 };
